@@ -1,0 +1,61 @@
+body{
+    margin: 10px 600px 0px 600px;
+}
+
+.nav{
+    
+    padding: 5px 45px;
+}
+.nav p {
+    display: inline;
+    padding: 0px 15px;
+}
+.wrap{
+    display: flex;
+}
+.aside{
+    
+    padding: 5px 15px;
+}
+.aside img{
+    border-radius: 99em
+    
+}
+.body{
+    
+    padding: 10px 5px;
+    width: 700px;
+}
+.bodyhd{
+    padding-bottom: 5px;
+}
+.bodyhd a{
+    font-weight: bold;
+    width: 400px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    
+}
+.bodyhd p{
+    display: inline-block;
+    
+}
+.body pre{
+    line-height: 1.5;
+}
+.imgblo{
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    
+}
+.footer{
+    
+    padding: 10px 0px 10px 90px;
+}
+.footer p{
+    display: inline;
+    padding-right: 100px;
+}
